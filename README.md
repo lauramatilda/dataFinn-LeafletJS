@@ -16,7 +16,7 @@ Kartta on suunniteltu erityisesti mobiililaitteille, mutta se on myös testattu 
 
 * [Asuntojenhintatiedot (Vuokraovi.com)](https://docs.google.com/spreadsheets/d/17w4sWustD0ZeTeIXgyk5lFLFEhZ0Sb_2RESbG0zie6s/edit?usp=sharing), sisältää myös muuta keräämääni dataa, sekä tekemääni analyysiä.
 * [Tilastokeskus: Vuoden 2014 keskiväkiluku](http://pxnet2.stat.fi/PXWeb/pxweb/fi/StatFin_Passiivi/StatFin_Passiivi__vrm__vaerak/statfinpas_vaerak_pxt_019_201400_fi.px/?rxid=1b16dd56-e6e8-450f-b281-f0b58ed20ed0)
-* Vuoden 2013 kuntarajat GEOJSON: [datajournalismi.blogspot.fi](http://datajournalismi.blogspot.fi/2013/02/suomen-kuntarajat-2013-kml-formaatissa.html) http://datajournalismi.blogspot.fi/2013/02/suomen-kuntarajat-2013-kml-formaatissa.html ja [kuntakartta.org](http://kuntakartta.org/)
+* Vuoden 2013 kuntarajat GEOJSON: [datajournalismi.blogspot.fi](http://datajournalismi.blogspot.fi/2013/02/suomen-kuntarajat-2013-kml-formaatissa.html) ja [kuntakartta.org](http://kuntakartta.org/)
 * [Leaflet](https://github.com/Leaflet/Leaflet)
 * [Proj4Leaflet](https://github.com/kartena/Proj4Leaflet)
 
